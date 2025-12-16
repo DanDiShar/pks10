@@ -1,4 +1,3 @@
-markdown
 # 📝 Notes SQLite App - Flutter Приложение для заметок
 
 ![Flutter](https://img.shields.io/badge/Flutter-3.16-blue)
